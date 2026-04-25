@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.bp {
+    background-color: pink;
+    font-family: verdana, "dejavu Sans", sans-serif;
+}
+#two {
+    color: blue;
+    font-size: 36px;
+}
+.size {
+    font-size: 24px;
+}
+#four{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
